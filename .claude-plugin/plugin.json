@@ -1,0 +1,27 @@
+{
+  "name": "app2email",
+  "displayName": "app2email",
+  "version": "1.0.0",
+  "description": "Send WhatsApp Business messages (free text and approved templates), read and answer conversations, and manage your app2email numbers: templates, profile, contacts, webhooks, and the Book-and-Pay, Tickets-and-Pay and Order-and-Pay apps.",
+  "author": {
+    "name": "app2email",
+    "email": "support@app2email.com",
+    "url": "https://www.app2email.com"
+  },
+  "homepage": "https://www.app2email.com/docs/api/mcp",
+  "repository": "https://github.com/app2email/claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "whatsapp-business",
+    "messaging",
+    "templates",
+    "customer-messaging",
+    "bookings",
+    "tickets"
+  ],
+  "icon": "./icon.png",
+  "documentationUrl": "https://www.app2email.com/docs/api/mcp",
+  "supportUrl": "https://www.app2email.com/dashboard/support",
+  "privacyPolicyUrl": "https://www.app2email.com/legal/privacy-policy",
+  "termsOfServiceUrl": "https://www.app2email.com/legal/terms-of-service"
+}

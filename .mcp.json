@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "app2email": {
+      "type": "http",
+      "url": "https://api.app2email.com/mcp"
+    }
+  }
+}
